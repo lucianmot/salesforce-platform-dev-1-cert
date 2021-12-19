@@ -3,7 +3,7 @@ __Link__: https://trailhead.salesforce.com/en/users/strailhead/trailmixes/prepar
 ### This is a time stamp list to track progress on me completing the Salesforce Platform Developer 1 Certificate
 
 # Progress Log
-## Current progress - 16% 
+## Current progress - 16%
 
 * Read - Platform Developer I Exam Overview - __Done__
 * Module - Platform Development Basics - __Done__
